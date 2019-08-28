@@ -1,5 +1,5 @@
 **Name**: Martin Spriggs
 
-**Assignment Name**: Assignment 1A: Create Glitch Account and Page
+**Assignment Name**: Assignment 2A: GitHub
 
-**Date**: August 22, 2019
+**Date**: August 28, 2019
